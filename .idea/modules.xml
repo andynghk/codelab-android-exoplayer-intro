@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codelab-exoplayer-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/codelab-exoplayer-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/codelab-exoplayer-intro.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-00/codelab-exoplayer-intro.exoplayer-codelab-00.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-01/codelab-exoplayer-intro.exoplayer-codelab-01.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-02/codelab-exoplayer-intro.exoplayer-codelab-02.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-03/codelab-exoplayer-intro.exoplayer-codelab-03.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exoplayer-codelab-04/codelab-exoplayer-intro.exoplayer-codelab-04.unitTest.iml" />
+    </modules>
+  </component>
+</project>
